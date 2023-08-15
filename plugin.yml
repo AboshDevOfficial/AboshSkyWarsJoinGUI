@@ -1,0 +1,8 @@
+name: AboshSkyWarsJoinGUI
+version: 1.0.0
+api: 3.0.0
+author: Abosh
+main: Abosh\SkyWarsGUI
+commands:
+  swgui:
+    description: Choose skywars arena made by abosh
